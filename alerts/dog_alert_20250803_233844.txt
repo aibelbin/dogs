@@ -1,0 +1,4 @@
+DOG DETECTION ALERT
+Time: 2025-08-03 23:38:44
+Detections in last 30s: 1
+Max confidence: 0.321
