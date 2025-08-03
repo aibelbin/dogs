@@ -1,0 +1,12 @@
+# Optimized dependencies for Raspberry Pi
+opencv-python==4.8.1.78
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
+numpy==1.24.3
+pandas==2.0.3
+pillow==10.0.0
+ultralytics==8.0.196
+
+# For faster inference on Pi
+onnx==1.14.1
+onnxruntime==1.15.1
